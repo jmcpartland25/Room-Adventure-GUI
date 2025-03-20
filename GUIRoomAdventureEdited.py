@@ -4,10 +4,6 @@
 # 9/26/22
 # brings you through a scary asylum and challenges you as you try to escape 
 ###########################################################################################
-###Questions for office hours
-#how to make thing update/change with item is grabbed
-#how to say if in this room say this like when you win or lose
-###########################################################################################
 # import libraries
 from tkinter import *
 from functools import partial
