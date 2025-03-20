@@ -1,8 +1,7 @@
 ###########################################################################################
 # Room Adventure
 # Jamie McPartland
-# 9/26/22
-# brings you through a scary asylum and challenges you as you try to escape 
+# Brings you through a scary asylum and challenges you as you try to escape 
 ###########################################################################################
 # import libraries
 from tkinter import *
